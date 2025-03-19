@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\viewmodels\\recipeformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\viewmodels\\recipeformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\views\\recipeformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\views\\recipeformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\converters\\booltotoggletextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\converters\\booltotoggletextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VENDI\\AppData\\Local\\Temp\\.vsdbgsrc\\150736414975ffec639e5f7ea2a1c9171f2f150a\\Views_MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecipeApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\views\\recipeformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\views\\recipeformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\views\\recipedetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\views\\recipedetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\views\\recipedetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\views\\recipedetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\viewmodels\\recipedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\viewmodels\\recipedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|c:\\users\\vendi\\desktop\\unwe - 2025\\\u0445\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\recipeapp\\recipeapp\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2300A-35F3-4A41-84DA-4D9F298C254F}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\ViewModels\\RecipeFormViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\ViewModels\\RecipeFormViewModel.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\ViewModels\\RecipeFormViewModel.cs",
+              "RelativeToolTip": "RecipeApp\\ViewModels\\RecipeFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:08:09.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeFormPage.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\Views\\RecipeFormPage.xaml",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeFormPage.xaml",
+              "RelativeToolTip": "RecipeApp\\Views\\RecipeFormPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T18:10:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "RecipeApp\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T18:17:09.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:16:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "RecipeApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:25:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "RecipeApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:07:36.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Models\\Ingredient.cs",
+              "RelativeToolTip": "RecipeApp\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:06:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\MauiProgram.cs",
+              "RelativeToolTip": "RecipeApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:18:11.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:19:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Views_MainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\AppData\\Local\\Temp\\.vsdbgsrc\\150736414975ffec639e5f7ea2a1c9171f2f150a\\Views_MainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\150736414975ffec639e5f7ea2a1c9171f2f150a\\Views_MainPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\VENDI\\AppData\\Local\\Temp\\.vsdbgsrc\\150736414975ffec639e5f7ea2a1c9171f2f150a\\Views_MainPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\150736414975ffec639e5f7ea2a1c9171f2f150a\\Views_MainPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:23:32.314Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\App.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\App.xaml",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\App.xaml",
+              "RelativeToolTip": "RecipeApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T18:27:56.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipeFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Views\\RecipeFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeFormPage.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\Views\\RecipeFormPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:20:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecipeDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Views\\RecipeDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeDetailsPage.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\Views\\RecipeDetailsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:20:04.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoolToToggleTextConverter.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Converters\\BoolToToggleTextConverter.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Converters\\BoolToToggleTextConverter.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Converters\\BoolToToggleTextConverter.cs",
+              "RelativeToolTip": "RecipeApp\\Converters\\BoolToToggleTextConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:32:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\AppShell.xaml",
+              "RelativeToolTip": "RecipeApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T18:16:20.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Models\\Recipe.cs",
+              "RelativeToolTip": "RecipeApp\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:05:45.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Services\\RecipeService.cs",
+              "RelativeToolTip": "RecipeApp\\Services\\RecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:06:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecipeDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeDetailsPage.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\Views\\RecipeDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\Views\\RecipeDetailsPage.xaml",
+              "RelativeToolTip": "RecipeApp\\Views\\RecipeDetailsPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T18:10:17.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecipeDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\ViewModels\\RecipeDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\ViewModels\\RecipeDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\VENDI\\Desktop\\UNWE - 2025\\\u0425\u0430\u0440\u043F\u0438\u044F\u0442\u0430\\RecipeApp\\RecipeApp\\ViewModels\\RecipeDetailsViewModel.cs",
+              "RelativeToolTip": "RecipeApp\\ViewModels\\RecipeDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:07:52.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

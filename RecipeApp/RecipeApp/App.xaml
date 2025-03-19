@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:conv="clr-namespace:RecipeApp.Converters"
+    x:Class="RecipeApp.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- Конвертер -->
+            <conv:BoolToToggleTextConverter x:Key="BoolToToggleTextConverter" />
+
+            <!-- Основни цветове -->
+            <Color x:Key="PrimaryPurple">#6A0DAD</Color>
+            <Color x:Key="AccentPink">#D81B60</Color>
+            <Color x:Key="White">#FFFFFF</Color>
+            <Color x:Key="Black">#000000</Color>
+
+            <!-- Стил за Header StackLayout -->
+            <Style x:Key="HeaderStackStyle" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="{StaticResource PrimaryPurple}" />
+                <Setter Property="Padding" Value="10" />
+            </Style>
+
+            <!-- Стил за заглавен Label -->
+            <Style x:Key="HeaderLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="{StaticResource White}" />
+                <Setter Property="FontSize" Value="24" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+            </Style>
+
+            <!-- Стил за ContentPage (бял фон) -->
+            <Style TargetType="ContentPage">
+                <Setter Property="BackgroundColor" Value="{StaticResource White}" />
+            </Style>
+
+            <!-- Стил за бутон (розов фон, бял текст, заоблени ъгли) -->
+            <Style x:Key="PrimaryButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{StaticResource AccentPink}" />
+                <Setter Property="TextColor" Value="{StaticResource White}" />
+                <Setter Property="CornerRadius" Value="20" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="Margin" Value="0,5,0,5" />
+            </Style>
+
+            <!-- Допълнителни стилове (Entry, Picker, Editor) могат да се добавят тук -->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

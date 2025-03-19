@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="RecipeApp.Views.RecipeDetailsPage"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Recipe Details">
+    <Grid RowDefinitions="Auto,*,Auto">
+        <!-- Хедър -->
+        <StackLayout Grid.Row="0" Style="{StaticResource HeaderStackStyle}">
+            <Label Text="Recipe Details" Style="{StaticResource HeaderLabelStyle}" />
+        </StackLayout>
+
+        <!-- Основно съдържание -->
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="10" Spacing="10">
+                <Label Text="{Binding Recipe.Title}" FontAttributes="Bold" FontSize="24" />
+                <Label Text="{Binding Recipe.Category}" FontSize="18" />
+                <Label Text="{Binding Recipe.PreparationTime, StringFormat='Time: {0} min'}" />
+                <Label Text="{Binding Recipe.Rating, StringFormat='Rating: {0}'}" />
+                <Image Source="{Binding Recipe.ImagePath}" Aspect="AspectFill" HeightRequest="200" />
+                <Label Text="Instructions:" FontAttributes="Bold" />
+                <Label Text="{Binding Recipe.Instructions}" />
+
+                <!-- Списък със съставки -->
+                <Label Text="Ingredients:" FontAttributes="Bold" />
+                <CollectionView ItemsSource="{Binding Recipe.Ingredients}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout Orientation="Horizontal" Spacing="10">
+                                <Label Text="{Binding Name}" />
+                                <Label Text="{Binding Quantity}" />
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!-- Футър -->
+        <BoxView Grid.Row="2"
+             HeightRequest="50"
+             BackgroundColor="{StaticResource PrimaryPurple}" />
+    </Grid>
+</ContentPage>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Name="RecipeFormPageView"
+             x:Class="RecipeApp.Views.RecipeFormPage"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Recipe Form">
+    <Grid RowDefinitions="Auto,*,Auto">
+        <!-- Хедър -->
+        <StackLayout Grid.Row="0" Style="{StaticResource HeaderStackStyle}">
+            <Label Text="Recipe Form" Style="{StaticResource HeaderLabelStyle}" />
+        </StackLayout>
+
+        <!-- Основно съдържание -->
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="10" Spacing="10">
+                <!-- Основни полета на рецептата -->
+                <Label Text="Title:" />
+                <Entry Placeholder="Enter title" Text="{Binding Title}" />
+
+                <Label Text="Category:" />
+                <Picker Title="Select category"
+                ItemsSource="{Binding Categories}"
+                SelectedItem="{Binding Category}" />
+
+                <Label Text="Instructions:" />
+                <Editor Placeholder="Enter instructions" Text="{Binding Instructions}" HeightRequest="200" />
+
+                <Label Text="Preparation Time (min):" />
+                <Entry Placeholder="Enter preparation time" Text="{Binding PreparationTime}" Keyboard="Numeric" />
+
+                <Label Text="Rating:" />
+                <Entry Placeholder="Enter rating" Text="{Binding Rating}" Keyboard="Numeric" />
+
+                <Label Text="Image URL:" />
+                <Entry Placeholder="Enter image URL" Text="{Binding ImagePath}" />
+
+                <!-- Списък с добавени съставки с опции за редакция и изтриване -->
+                <CollectionView ItemsSource="{Binding Ingredients}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Padding="5" ColumnSpacing="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <StackLayout Grid.Column="0" Orientation="Horizontal" Spacing="5">
+                                    <Label Text="{Binding Name}" FontAttributes="Bold" />
+                                    <Label Text="{Binding Quantity}" />
+                                    <Label Text="{Binding Unit}" />
+                                </StackLayout>
+                                <!-- Бутон за редакция на съставката -->
+                                <Button Grid.Column="1"
+        Text="Edit"
+        Command="{Binding Source={x:Reference RecipeFormPageView}, Path=BindingContext.EditIngredientCommand}"
+        CommandParameter="{Binding}"
+        Style="{StaticResource PrimaryButtonStyle}" />
+                                <!-- Бутон за изтриване на съставката -->
+                                <Button Grid.Column="2"
+        Text="Delete"
+        Command="{Binding Source={x:Reference RecipeFormPageView}, Path=BindingContext.DeleteIngredientCommand}"
+        CommandParameter="{Binding}"
+        Style="{StaticResource PrimaryButtonStyle}"
+        TextColor="Red" />
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+                <!-- Секция за съставки -->
+                <Label Text="Ingredients:" FontAttributes="Bold" />
+
+                <!-- Въвеждане на нова съставка: име, количество и мерна единица -->
+                <Grid ColumnDefinitions="*,*,*">
+                    <Entry Grid.Column="0" Placeholder="Ingredient Name" Text="{Binding NewIngredientName}" />
+                    <Entry Grid.Column="1" Placeholder="Quantity" Text="{Binding NewIngredientQuantity}" />
+                    <Picker Grid.Column="2"
+                  ItemsSource="{Binding Units}"
+                  SelectedItem="{Binding NewIngredientUnit}" />
+                </Grid>
+                <Button Text="Add Ingredient"
+                Command="{Binding AddIngredientCommand}"
+                Style="{StaticResource PrimaryButtonStyle}" />
+
+                
+
+                <!-- Бутон за запис на рецептата -->
+                <Button Text="Save Recipe"
+                Command="{Binding SaveRecipeCommand}"
+                Style="{StaticResource PrimaryButtonStyle}" />
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!-- Футър -->
+        <BoxView Grid.Row="2"
+             HeightRequest="50"
+             BackgroundColor="{StaticResource PrimaryPurple}" />
+    </Grid>
+</ContentPage>
